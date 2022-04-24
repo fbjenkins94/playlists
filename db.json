@@ -1,0 +1,19 @@
+{
+  "playlists": [
+    {
+      "id": 1,
+      "name": "Playlist 1",
+      "songs": [{"title": "Song 1", "url": "Url 1"}, {"title": "Song 2", "url": "Url 2"}, {"title": "Song 3", "url": "Url 3"}, {"title": "Song 4", "url": "Url 4"}, {"title": "Song 5", "url": "Url 5"}, {"title": "Song 6", "url": "Url 6"}, {"title": "Song 7", "url": "Url 7"}, {"title": "Song 8", "url": "Url 8"}, {"title": "Song 9", "url": "Url 9"}, {"title": "Song 10", "url": "Url 10"}, {"title": "Song 11", "url": "Url 11"}, {"title": "Song 12", "url": "Url 12"}]
+    },
+    {
+      "id": 2,
+      "name": "Playlist 2",
+      "songs": [{"title": "We Will Rock You", "url": "Url 11"}, {"title": "The Beautiful People", "url": "Url 12"}, {"title": "Summertime", "url": "Url 13"}]
+    },
+    {
+      "id": 3,
+      "name": "Playlist 3",
+      "songs": []
+    }
+  ]
+}
